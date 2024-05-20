@@ -12,13 +12,13 @@ const Footer = () => {
       <span>OUR LOCATION:</span>
       <p>Syedpur house, Tilagor - Ambarkhana Road, Sylhet, Sylhet Sadar</p>
       <p>Phone: +8801921275800<br></br>
-        Email: info@uplinefitness.com</p>
+        Email: info@battlefieldgym.com</p>
         <div className='social-icons'>
           <p>Social Media</p>
           <div className='icon'>
            <div className='fb'><FontAwesomeIcon icon={fab.faFacebook}/></div>
            <div className='insta'><FontAwesomeIcon icon={fab.faInstagram}></FontAwesomeIcon></div>
-     <div className='gmail'><a href="mailto:routhaman831@gmail.com"><FontAwesomeIcon icon={fas.faEnvelopeOpen} /></a></div>
+     <div className='gmail'><a href="mailto:prottoychakroborty7@gmail.com"><FontAwesomeIcon icon={fas.faEnvelopeOpen} /></a></div>
 
            </div>
       </div>

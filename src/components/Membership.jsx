@@ -22,7 +22,7 @@ const Membership = () => {
           time: "1 month",
           id: "fs-01",
           logo: "red",
-          addmsg: "Falana wali ke pyaar mein"
+          addmsg: "Diverse Workouts for Every Fitness Level"
       },
       {
         title: "Intermediate Plan",
@@ -32,7 +32,7 @@ const Membership = () => {
         time: "1 month",
         id: "fs-02",
         logo: "red",
-        addmsg: "Falana wali ke pyaar mein"
+        addmsg: "Diverse Workouts for Every Fitness Level"
     },
     {
       title: "Premium Plan",
@@ -42,7 +42,7 @@ const Membership = () => {
       time: "3 month",
       id: "fs-03",
       logo: "red",
-      addmsg: "Falana wali ke pyaar mein"
+      addmsg: "Diverse Workouts for Every Fitness Level"
   }
     ],
     feast : [
@@ -54,7 +54,7 @@ const Membership = () => {
           time: "1 month",
           id: "sec-01",
           logo: "red",
-          addmsg: "Falana wali ke pyaar mein"
+          addmsg: "Diverse Workouts for Every Fitness Level"
       },
       {
           title: "3 Month Membership",
@@ -78,11 +78,11 @@ const Membership = () => {
         title: "UPLINECOACH",
         desc: "Self evolutionary fitness coach",
         discardPrice: "$ 199",
-        price: "$ 49",
+        price: "$ 25",
         time: "1 month",
         id: "th-01",
         logo: "red",
-        addmsg: "Falana wali ke pyaar mein"
+        addmsg: "Diverse Workouts for Every Fitness Level"
     },
     {
         title: "UPLINECOACH",
@@ -96,7 +96,7 @@ const Membership = () => {
         title: "UPLINECOACH",
         desc: "Self evolutionary fitness coach",
         discardPrice: "",
-        price: "$ 600",
+        price: "$ 110",
         time: "6 month",
         id: "th-03"
     }
@@ -105,12 +105,12 @@ const Membership = () => {
     {
         title: "UPLINETV",
         desc: "Get the best of fitness with unlimited access to to-notch online workouts",
-        discardPrice: "₹ 100",
-        price: "$ 50",
+        discardPrice: "$ 100",
+        price: "$ 20",
         time: "1 month",
         id: "fr-01",
         logo: "vite.svg",
-        addmsg: "Falana wali ke pyaar mein"
+        addmsg: "Diverse Workouts for Every Fitness Level"
     },
     {
         title: "UPLINETV",
@@ -201,7 +201,7 @@ const Membership = () => {
         </div>
         <div className='mem-check'>
         <input type="checkbox" id="click" name="click" value="click"/>
-            <label for="click"> I am interested at <b>Membership</b> at<br></br> Upline fitness parkstreet,kolkata.<br></br>Please call me!</label></div>
+            <label for="click"> I am interested at <b>Membership</b> at<br></br> Upline fitness(Battlefieldgym) Tilagor-Ambarkhana road,Sylhet.<br></br>Please call me!</label></div>
             <div className='mem-send'>
             <div className='mem-btn'>
             <button>Send</button>
